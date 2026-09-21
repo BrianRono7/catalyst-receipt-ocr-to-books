@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "catalyst_receipt_ocr_to_books_function",
+		"stack": "node24",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

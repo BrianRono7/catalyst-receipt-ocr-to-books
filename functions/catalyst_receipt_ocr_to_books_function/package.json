@@ -1,0 +1,11 @@
+{
+	"name": "catalyst_receipt_ocr_to_books_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "kipngeno.rono+1@zohotest.com",
+	"dependencies": {
+		"@zcatalyst/connector": "^0.0.4",
+		"busboy": "^1.6.0",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
