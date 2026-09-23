@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "52687000000268001",
+      "name": "catalyst-receipt-ocr-to-books",
+      "domain": {
+        "id": "10134420754",
+        "name": "catalyst-receipt-ocr-to-books-911166769.development"
+      },
+      "timezone": "Africa/Nairobi",
+      "env": [
+        {
+          "idx": 1,
+          "id": "911166769",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

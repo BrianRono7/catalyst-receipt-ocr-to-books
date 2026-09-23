@@ -6,6 +6,7 @@
 	"dependencies": {
 		"@zcatalyst/connector": "^0.0.4",
 		"busboy": "^1.6.0",
+		"dotenv": "^18.0.2",
 		"zcatalyst-sdk-node": "latest"
 	}
 }
